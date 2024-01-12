@@ -1,4 +1,4 @@
-<center><h1>👋 Hi, I’m Mr-Ocelot<h1></center>
+<h1 style="text-align: center;">👋 Hi, I’m Mr-Ocelot<h1>
 - 👀 I’m interested in:
     Backend
     Communications
