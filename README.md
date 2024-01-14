@@ -1,4 +1,5 @@
-<h1 style="text-align: center;">👋 Hi, I’m Mr-Ocelot</h1>
+![Gradient wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mr-Ocelot&fontColor=0D1117&fontAlignY=45&color=gradient)
+
 
 - 👀 I’m interested in:
     Backend
