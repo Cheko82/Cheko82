@@ -1,4 +1,4 @@
-![Gradient wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Mr-Ocelot&fontColor=0D1117&fontAlignY=45&color=gradient)
+![Gradient wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=MrOcelot&fontColor=0D1117&fontAlignY=45&color=gradient)
 
 
 - 👀 I’m interested in:
