@@ -1,5 +1,6 @@
 ![Gradient wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=MrOcelot&fontColor=0D1117&fontAlignY=45&color=gradient)
 
+![](https://komarev.com/ghpvc/?username=Mr-Ocelot&color=579658&style=for-the-badge&label=Visits)
 
 - 👀 I’m interested in:
     Backend
