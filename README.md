@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Mr-Ocelot&color=579658&style=for-the-badge&label=Visits)
 ![](https://img.shields.io/badge/Discord:%20jester757-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/jijdev@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 - 👀 I’m interested in:
     Backend
