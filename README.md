@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Cheko82&color=579658&style=for-the-badge&label=Visits)
 ![](https://img.shields.io/badge/Discord:%20jester757-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/jijdev@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cheko)
 
 🌐 **Portfolio:** https://cheko82.vercel.app/
 
