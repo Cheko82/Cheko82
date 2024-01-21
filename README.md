@@ -12,8 +12,8 @@
     Communications
     Pentesting
 
-- 🌱 I’m currently learning Pentesting and Digital Forensics
-- 🙇‍♂️ Pronouns: he/him
+- 🌱 I’m currently learning Blockchain Dev
+- 👨‍💻 Pronouns: he/him
 
 ### What I won't disclose, so please don't ask me:
 - Age
